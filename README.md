@@ -1,12 +1,12 @@
 # **Converter .𝗽𝗻𝗴 to .𝗶𝗰𝗼**
 
 **A just converter .𝗽𝗻𝗴 to .𝗶𝗰𝗼 simple**
-![background](https://cdn.discordapp.com/attachments/1060604037394870403/1066448148492455997/image.png)
+![background](https://cdn.discordapp.com/attachments/1044683106264809563/1066448666438680736/image.png)
 
 # __INSTALLATION__
->### [Developper Portal](https://discord.com/developers/applications/) (Create Application)
->## ```pip install pypresence```
->### ![background](https://cdn.discordapp.com/attachments/1047918302841798718/1059956075492814848/image.png) (Add Image)
+
+>### ```pip install pystyle```
+>### ```pip install colorama```
 
 
 # EXEMPLE
