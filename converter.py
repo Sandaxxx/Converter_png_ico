@@ -1,10 +1,7 @@
-# C:\Users\sandax\Desktop\dev\#ico_image\png\servers.png
-
 import os
 from PIL import Image
 from colorama import Fore
 from pystyle import Colors, Colorate, Write
-
 
 banner = """
                        ██████╗ ██████╗ ███╗   ██╗██╗   ██╗███████╗██████╗ ████████╗███████╗██████╗ 
