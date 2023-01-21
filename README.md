@@ -1,4 +1,4 @@
-# **Converter .𝗽𝗻𝗴 to .𝗶𝗰𝗼**
+# __**CONVERTER PNG ICO**__
 
 **A just converter .𝗽𝗻𝗴 to .𝗶𝗰𝗼 simple**
 ![background](https://cdn.discordapp.com/attachments/1044683106264809563/1066448666438680736/image.png)
