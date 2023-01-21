@@ -9,6 +9,6 @@
 >### ```pip install colorama```
 
 
-## __Build__
+# __Build__
 * [pystyle](https://github.com/billythegoat356/pystyle)
 * [colorama](https://pypi.org/project/colorama/)
