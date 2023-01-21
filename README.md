@@ -10,5 +10,5 @@
 
 
 ## __Build__
-* [pystyle]([https://pypi.org/project/pypresence/](https://github.com/billythegoat356/pystyle))
+* [pystyle](https://github.com/billythegoat356/pystyle)
 * [colorama](https://pypi.org/project/colorama/)
